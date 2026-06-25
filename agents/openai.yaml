@@ -1,0 +1,8 @@
+interface:
+  display_name: "High Fidelity HTML Reconstruction"
+  short_description: "Strict green-source workflow for screenshot-to-HTML"
+  brand_color: "#00AEEC"
+  default_prompt: "Use $high-fidelity-html-reconstruction to convert this screenshot into high-fidelity HTML with a green-source asset workflow."
+
+policy:
+  allow_implicit_invocation: true
